@@ -1,0 +1,46 @@
+{
+  "id": "product-sample-feedback-revision-list",
+  "name": "Product sample feedback revision list",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "After each round of samples, your product lead gets one revision list by sample version and feature: the changes people agree on, the feedback that conflicts, and drafted notes for the next supplier brief. The product owner decides.",
+  "directory": "https://fullypowered.ai/capabilities/product-sample-feedback-revision-list/",
+  "primary_function": "functions/product-management",
+  "functions": [
+    "functions/product-management"
+  ],
+  "industries": [
+    "industries/consumer-brands",
+    "industries/ecommerce-and-retail",
+    "industries/hardware-and-physical-technology"
+  ],
+  "situations": [
+    "situations/new-business-lines",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "customer-feedback-themes",
+    "acceptance-criteria-sheet",
+    "supplier-quality-response-check"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of consumer-brand product work."
+    }
+  ]
+}

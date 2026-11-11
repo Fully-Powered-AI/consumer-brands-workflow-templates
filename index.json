@@ -28,6 +28,14 @@
       "directory": "https://fullypowered.ai/capabilities/packaging-artwork-handoff-check/"
     },
     {
+      "id": "product-sample-feedback-revision-list",
+      "name": "Product sample feedback revision list",
+      "version": "0.1.0",
+      "summary": "After each round of samples, your product lead gets one revision list by sample version and feature: the changes people agree on, the feedback that conflicts, and drafted notes for the next supplier brief. The product owner decides.",
+      "path": "product-sample-feedback-revision-list/",
+      "directory": "https://fullypowered.ai/capabilities/product-sample-feedback-revision-list/"
+    },
+    {
       "id": "range-margin-by-channel-review",
       "name": "Range margin by channel review",
       "version": "0.1.0",

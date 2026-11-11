@@ -2,13 +2,14 @@
 
 A brand that knows every product's story, from sample to shelf. These capability templates are written for consumer brands. They prepare the checking and tracing around products, stock and wholesale orders from your own records, and the brand's people decide what changes.
 
-This repository holds 5 capability templates for the people who run product, operations and wholesale at a consumer brand. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+This repository holds 6 capability templates for the people who run product, operations and wholesale at a consumer brand. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
 
 ## The capabilities
 
 - **[Batch distribution trace](batch-distribution-trace/)**: When the quality lead needs to know where one production batch went, they get a map from the batch record to every recorded shipment: quantities, transfers and repacking links, with each gap in the trace written as a question. It decides no hold and contacts nobody.
 - **[Dated stock exposure list](dated-stock-exposure-list/)**: Before the next production or replenishment order, the supply planner gets a batch-by-batch list of stated dates, quantities and locations set against each retailer's acceptance rules, showing which batches need a decision. The quality owner and supply lead decide.
 - **[Packaging artwork handoff check](packaging-artwork-handoff-check/)**: Before packaging artwork goes to print, the packaging owner gets a checklist that matches each file to the approved product facts, pack sizes, variants and printer specifications, with version conflicts, missing files and missing approvals listed. It writes and judges no label claim.
+- **[Product sample feedback revision list](product-sample-feedback-revision-list/)**: After each round of samples, your product lead gets one revision list by sample version and feature: the changes people agree on, the feedback that conflicts, and drafted notes for the next supplier brief. The product owner decides.
 - **[Range margin by channel review](range-margin-by-channel-review/)**: When a wholesale offer or a promotion changes the economics of a range, the finance lead gets a margin worksheet for every product in every channel, showing which cost layers are in each figure and which gaps are still open. It invents no cost and changes no price.
 - **[Wholesale order check](wholesale-order-check/)**: When a retailer's purchase order arrives, the account owner gets every line set beside the approved quote and the stock plan: products, case packs, prices, delivery locations and dates, with each exception listed. People decide; nothing is confirmed to the buyer.
 
