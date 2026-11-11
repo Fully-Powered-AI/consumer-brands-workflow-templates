@@ -1,0 +1,47 @@
+{
+  "id": "wholesale-order-check",
+  "name": "Wholesale order check",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When a retailer's purchase order arrives, the account owner gets every line set beside the approved quote and the stock plan: products, case packs, prices, delivery locations and dates, with each exception listed. People decide; nothing is confirmed to the buyer.",
+  "directory": "https://fullypowered.ai/capabilities/wholesale-order-check/",
+  "primary_function": "functions/sales",
+  "functions": [
+    "functions/sales",
+    "functions/supply-chain-and-inventory"
+  ],
+  "industries": [
+    "industries/consumer-brands",
+    "industries/ecommerce-and-retail",
+    "industries/manufacturing"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "discount-request-review",
+    "sales-proposal-preparation",
+    "unshipped-order-review"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own published map of wholesale and retail partner work for consumer brands."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "range-margin-by-channel-review",
+  "name": "Range margin by channel review",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When a wholesale offer or a promotion changes the economics of a range, the finance lead gets a margin worksheet for every product in every channel, showing which cost layers are in each figure and which gaps are still open. It invents no cost and changes no price.",
+  "directory": "https://fullypowered.ai/capabilities/range-margin-by-channel-review/",
+  "primary_function": "functions/finance-and-accounting",
+  "functions": [
+    "functions/finance-and-accounting",
+    "functions/analytics-and-reporting",
+    "functions/sales"
+  ],
+  "industries": [
+    "industries/consumer-brands",
+    "industries/ecommerce-and-retail",
+    "industries/manufacturing"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "price-change-review",
+    "product-landed-cost-worksheet",
+    "discount-request-review"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of consumer-brand finance work: the consumer brands industry page, 'Compare product margins across channels'."
+    }
+  ]
+}

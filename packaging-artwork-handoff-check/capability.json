@@ -1,0 +1,47 @@
+{
+  "id": "packaging-artwork-handoff-check",
+  "name": "Packaging artwork handoff check",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before packaging artwork goes to print, the packaging owner gets a checklist that matches each file to the approved product facts, pack sizes, variants and printer specifications, with version conflicts, missing files and missing approvals listed. It writes and judges no label claim.",
+  "directory": "https://fullypowered.ai/capabilities/packaging-artwork-handoff-check/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content",
+    "functions/quality-management"
+  ],
+  "industries": [
+    "industries/consumer-brands",
+    "industries/manufacturing",
+    "industries/ecommerce-and-retail"
+  ],
+  "situations": [
+    "situations/new-business-lines",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "launch-checklist",
+    "copy-edit-with-a-change-list",
+    "product-page-facts-gap-review"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of the work of checking a packaging revision before print, and its own rules for prepared work: the supplied records as the only authority, every gap written as a question for a named role, and a person who confirms the release file."
+    }
+  ]
+}

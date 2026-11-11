@@ -1,0 +1,47 @@
+{
+  "id": "batch-distribution-trace",
+  "name": "Batch distribution trace",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When the quality lead needs to know where one production batch went, they get a map from the batch record to every recorded shipment: quantities, transfers and repacking links, with each gap in the trace written as a question. It decides no hold and contacts nobody.",
+  "directory": "https://fullypowered.ai/capabilities/batch-distribution-trace/",
+  "primary_function": "functions/quality-management",
+  "functions": [
+    "functions/quality-management",
+    "functions/supply-chain-and-inventory"
+  ],
+  "industries": [
+    "industries/consumer-brands",
+    "industries/manufacturing",
+    "industries/ecommerce-and-retail"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "product-recall-customer-contact-plan",
+    "stock-count-reconciliation",
+    "supplier-quality-response-check"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of consumer-brand quality and operations work."
+    }
+  ]
+}
