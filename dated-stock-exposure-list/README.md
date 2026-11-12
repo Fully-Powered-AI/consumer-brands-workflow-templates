@@ -2,7 +2,7 @@
 
 Before the next production or replenishment order, the supply planner gets a batch-by-batch list of stated dates, quantities and locations set against each retailer's acceptance rules, showing which batches need a decision. The quality owner and supply lead decide.
 
-*Workflow template · Consumer brands · Supply chain and inventory · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/dated-stock-exposure-list/)*
+*Workflow template · Consumer brands · Supply chain and inventory · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/dated-stock-exposure-list/)*
 
 ## The outcome
 
@@ -72,9 +72,9 @@ Testing in your environment means running it on a past stock position your team 
 
 ## Related workflow templates
 
-- [Slow-moving stock and markdown plan](https://fullypowered.ai/workflow templates/slow-moving-stock-and-markdown-plan/)
-- [Clinic supply par levels and expiry check](https://fullypowered.ai/workflow templates/clinic-supply-par-levels-and-expiry-check/)
-- [Inventory reorder plan](https://fullypowered.ai/workflow templates/inventory-reorder-plan/)
+- [Slow-moving stock and markdown plan](https://fullypowered.ai/workflows/slow-moving-stock-and-markdown-plan/)
+- [Clinic supply par levels and expiry check](https://fullypowered.ai/workflows/clinic-supply-par-levels-and-expiry-check/)
+- [Inventory reorder plan](https://fullypowered.ai/workflows/inventory-reorder-plan/)
 
 ## Make it yours
 

@@ -2,7 +2,7 @@
 
 When a wholesale offer or a promotion changes the economics of a range, the finance lead gets a margin worksheet for every product in every channel, showing which cost layers are in each figure and which gaps are still open. It invents no cost and changes no price.
 
-*Workflow template · Consumer brands · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/range-margin-by-channel-review/)*
+*Workflow template · Consumer brands · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/range-margin-by-channel-review/)*
 
 ## The outcome
 
@@ -94,9 +94,9 @@ Testing in your environment means running it on a past quarter your finance lead
 
 ## Related workflow templates
 
-- [Price change review](https://fullypowered.ai/workflow templates/price-change-review/)
-- [Product landed cost worksheet](https://fullypowered.ai/workflow templates/product-landed-cost-worksheet/)
-- [Discount request review](https://fullypowered.ai/workflow templates/discount-request-review/)
+- [Price change review](https://fullypowered.ai/workflows/price-change-review/)
+- [Product landed cost worksheet](https://fullypowered.ai/workflows/product-landed-cost-worksheet/)
+- [Discount request review](https://fullypowered.ai/workflows/discount-request-review/)
 
 ## Make it yours
 

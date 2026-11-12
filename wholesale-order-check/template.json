@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When a retailer's purchase order arrives, the account owner gets every line set beside the approved quote and the stock plan: products, case packs, prices, delivery locations and dates, with each exception listed. People decide; nothing is confirmed to the buyer.",
-  "directory": "https://fullypowered.ai/workflow templates/wholesale-order-check/",
+  "directory": "https://fullypowered.ai/workflows/wholesale-order-check/",
   "primary_function": "functions/sales",
   "functions": [
     "functions/sales",

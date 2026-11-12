@@ -2,7 +2,7 @@
 
 When the quality lead needs to know where one production batch went, they get a map from the batch record to every recorded shipment: quantities, transfers and repacking links, with each gap in the trace written as a question. It decides no hold and contacts nobody.
 
-*Workflow template · Consumer brands · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/batch-distribution-trace/)*
+*Workflow template · Consumer brands · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/batch-distribution-trace/)*
 
 ## The outcome
 
@@ -95,9 +95,9 @@ Testing in your environment means running it on a past batch the quality lead al
 
 ## Related workflow templates
 
-- [Product recall customer contact plan](https://fullypowered.ai/workflow templates/product-recall-customer-contact-plan/)
-- [Stock count reconciliation](https://fullypowered.ai/workflow templates/stock-count-reconciliation/)
-- [Supplier quality response check](https://fullypowered.ai/workflow templates/supplier-quality-response-check/)
+- [Product recall customer contact plan](https://fullypowered.ai/workflows/product-recall-customer-contact-plan/)
+- [Stock count reconciliation](https://fullypowered.ai/workflows/stock-count-reconciliation/)
+- [Supplier quality response check](https://fullypowered.ai/workflows/supplier-quality-response-check/)
 
 ## Make it yours
 

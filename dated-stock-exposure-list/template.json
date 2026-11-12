@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before the next production or replenishment order, the supply planner gets a batch-by-batch list of stated dates, quantities and locations set against each retailer's acceptance rules, showing which batches need a decision. The quality owner and supply lead decide.",
-  "directory": "https://fullypowered.ai/workflow templates/dated-stock-exposure-list/",
+  "directory": "https://fullypowered.ai/workflows/dated-stock-exposure-list/",
   "primary_function": "functions/supply-chain-and-inventory",
   "functions": [
     "functions/supply-chain-and-inventory"

@@ -2,7 +2,7 @@
 
 Before packaging artwork goes to print, the packaging owner gets a checklist that matches each file to the approved product facts, pack sizes, variants and printer specifications, with version conflicts, missing files and missing approvals listed. It writes and judges no label claim.
 
-*Workflow template · Consumer brands · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/packaging-artwork-handoff-check/)*
+*Workflow template · Consumer brands · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/packaging-artwork-handoff-check/)*
 
 ## The outcome
 
@@ -79,9 +79,9 @@ Testing in your environment means running it on a past print run your team remem
 
 ## Related workflow templates
 
-- [Launch checklist](https://fullypowered.ai/workflow templates/launch-checklist/)
-- [Copy edit with a change list](https://fullypowered.ai/workflow templates/copy-edit-with-a-change-list/)
-- [Product-page facts gap review](https://fullypowered.ai/workflow templates/product-page-facts-gap-review/)
+- [Launch checklist](https://fullypowered.ai/workflows/launch-checklist/)
+- [Copy edit with a change list](https://fullypowered.ai/workflows/copy-edit-with-a-change-list/)
+- [Product-page facts gap review](https://fullypowered.ai/workflows/product-page-facts-gap-review/)
 
 ## Make it yours
 

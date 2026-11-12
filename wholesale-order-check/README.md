@@ -2,7 +2,7 @@
 
 When a retailer's purchase order arrives, the account owner gets every line set beside the approved quote and the stock plan: products, case packs, prices, delivery locations and dates, with each exception listed. People decide; nothing is confirmed to the buyer.
 
-*Workflow template · Consumer brands · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/wholesale-order-check/)*
+*Workflow template · Consumer brands · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/wholesale-order-check/)*
 
 ## The outcome
 
@@ -89,9 +89,9 @@ Testing in your environment means running it on past purchase orders your accoun
 
 ## Related workflow templates
 
-- [Discount request review](https://fullypowered.ai/workflow templates/discount-request-review/)
-- [Sales proposal preparation](https://fullypowered.ai/workflow templates/sales-proposal-preparation/)
-- [Unshipped order review](https://fullypowered.ai/workflow templates/unshipped-order-review/)
+- [Discount request review](https://fullypowered.ai/workflows/discount-request-review/)
+- [Sales proposal preparation](https://fullypowered.ai/workflows/sales-proposal-preparation/)
+- [Unshipped order review](https://fullypowered.ai/workflows/unshipped-order-review/)
 
 ## Make it yours
 

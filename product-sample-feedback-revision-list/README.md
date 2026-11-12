@@ -2,7 +2,7 @@
 
 After each round of samples, your product lead gets one revision list by sample version and feature: the changes people agree on, the feedback that conflicts, and drafted notes for the next supplier brief. The product owner decides.
 
-*Workflow template · Consumer brands · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/product-sample-feedback-revision-list/)*
+*Workflow template · Consumer brands · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/product-sample-feedback-revision-list/)*
 
 ## The outcome
 
@@ -75,9 +75,9 @@ Testing in your environment means running it on a past sample round your product
 
 ## Related workflow templates
 
-- [Customer feedback themes](https://fullypowered.ai/workflow templates/customer-feedback-themes/)
-- [Acceptance criteria sheet](https://fullypowered.ai/workflow templates/acceptance-criteria-sheet/)
-- [Supplier quality response check](https://fullypowered.ai/workflow templates/supplier-quality-response-check/)
+- [Customer feedback themes](https://fullypowered.ai/workflows/customer-feedback-themes/)
+- [Acceptance criteria sheet](https://fullypowered.ai/workflows/acceptance-criteria-sheet/)
+- [Supplier quality response check](https://fullypowered.ai/workflows/supplier-quality-response-check/)
 
 ## Make it yours
 
