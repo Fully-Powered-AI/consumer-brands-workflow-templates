@@ -1,15 +1,15 @@
 {
-  "repository": "Fully-Powered-AI/consumer-brands-capability-templates",
+  "repository": "Fully-Powered-AI/consumer-brands-workflow-templates",
   "title": "Consumer Brands",
   "term": "industries/consumer-brands",
-  "capabilities": [
+  "templates": [
     {
       "id": "batch-distribution-trace",
       "name": "Batch distribution trace",
       "version": "0.1.0",
       "summary": "When the quality lead needs to know where one production batch went, they get a map from the batch record to every recorded shipment: quantities, transfers and repacking links, with each gap in the trace written as a question. It decides no hold and contacts nobody.",
       "path": "batch-distribution-trace/",
-      "directory": "https://fullypowered.ai/capabilities/batch-distribution-trace/"
+      "directory": "https://fullypowered.ai/workflow templates/batch-distribution-trace/"
     },
     {
       "id": "dated-stock-exposure-list",
@@ -17,7 +17,7 @@
       "version": "0.1.0",
       "summary": "Before the next production or replenishment order, the supply planner gets a batch-by-batch list of stated dates, quantities and locations set against each retailer's acceptance rules, showing which batches need a decision. The quality owner and supply lead decide.",
       "path": "dated-stock-exposure-list/",
-      "directory": "https://fullypowered.ai/capabilities/dated-stock-exposure-list/"
+      "directory": "https://fullypowered.ai/workflow templates/dated-stock-exposure-list/"
     },
     {
       "id": "packaging-artwork-handoff-check",
@@ -25,7 +25,7 @@
       "version": "0.1.0",
       "summary": "Before packaging artwork goes to print, the packaging owner gets a checklist that matches each file to the approved product facts, pack sizes, variants and printer specifications, with version conflicts, missing files and missing approvals listed. It writes and judges no label claim.",
       "path": "packaging-artwork-handoff-check/",
-      "directory": "https://fullypowered.ai/capabilities/packaging-artwork-handoff-check/"
+      "directory": "https://fullypowered.ai/workflow templates/packaging-artwork-handoff-check/"
     },
     {
       "id": "product-sample-feedback-revision-list",
@@ -33,7 +33,7 @@
       "version": "0.1.0",
       "summary": "After each round of samples, your product lead gets one revision list by sample version and feature: the changes people agree on, the feedback that conflicts, and drafted notes for the next supplier brief. The product owner decides.",
       "path": "product-sample-feedback-revision-list/",
-      "directory": "https://fullypowered.ai/capabilities/product-sample-feedback-revision-list/"
+      "directory": "https://fullypowered.ai/workflow templates/product-sample-feedback-revision-list/"
     },
     {
       "id": "range-margin-by-channel-review",
@@ -41,7 +41,7 @@
       "version": "0.1.0",
       "summary": "When a wholesale offer or a promotion changes the economics of a range, the finance lead gets a margin worksheet for every product in every channel, showing which cost layers are in each figure and which gaps are still open. It invents no cost and changes no price.",
       "path": "range-margin-by-channel-review/",
-      "directory": "https://fullypowered.ai/capabilities/range-margin-by-channel-review/"
+      "directory": "https://fullypowered.ai/workflow templates/range-margin-by-channel-review/"
     },
     {
       "id": "wholesale-order-check",
@@ -49,7 +49,7 @@
       "version": "0.1.0",
       "summary": "When a retailer's purchase order arrives, the account owner gets every line set beside the approved quote and the stock plan: products, case packs, prices, delivery locations and dates, with each exception listed. People decide; nothing is confirmed to the buyer.",
       "path": "wholesale-order-check/",
-      "directory": "https://fullypowered.ai/capabilities/wholesale-order-check/"
+      "directory": "https://fullypowered.ai/workflow templates/wholesale-order-check/"
     }
   ]
 }

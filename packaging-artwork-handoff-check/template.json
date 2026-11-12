@@ -1,10 +1,10 @@
 {
   "id": "packaging-artwork-handoff-check",
   "name": "Packaging artwork handoff check",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before packaging artwork goes to print, the packaging owner gets a checklist that matches each file to the approved product facts, pack sizes, variants and printer specifications, with version conflicts, missing files and missing approvals listed. It writes and judges no label claim.",
-  "directory": "https://fullypowered.ai/capabilities/packaging-artwork-handoff-check/",
+  "directory": "https://fullypowered.ai/workflow templates/packaging-artwork-handoff-check/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content",

@@ -5,7 +5,7 @@
 - **Date:** 2026-11-10
 - **Template version:** 0.1.0
 
-This is a record of two runs of the capability template on its own invented example. The brand, the retailer, the products, the prices, the stock and the dates are invented, and no client data was used. It shows what the template produced on one set of inputs. It is not a test in any company's environment.
+This is a record of two runs of the workflow template on its own invented example. The brand, the retailer, the products, the prices, the stock and the dates are invented, and no client data was used. It shows what the template produced on one set of inputs. It is not a test in any company's environment.
 
 The first run is below as recorded. An independent review of the template and its example then found where the instructions left room to guess, and the instructions, the output format and the example were revised. The second run, made on the revised instructions, is recorded after the first.
 

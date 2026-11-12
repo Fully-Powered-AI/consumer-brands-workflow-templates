@@ -1,10 +1,10 @@
 {
   "id": "batch-distribution-trace",
   "name": "Batch distribution trace",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When the quality lead needs to know where one production batch went, they get a map from the batch record to every recorded shipment: quantities, transfers and repacking links, with each gap in the trace written as a question. It decides no hold and contacts nobody.",
-  "directory": "https://fullypowered.ai/capabilities/batch-distribution-trace/",
+  "directory": "https://fullypowered.ai/workflow templates/batch-distribution-trace/",
   "primary_function": "functions/quality-management",
   "functions": [
     "functions/quality-management",

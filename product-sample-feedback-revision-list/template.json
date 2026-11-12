@@ -1,10 +1,10 @@
 {
   "id": "product-sample-feedback-revision-list",
   "name": "Product sample feedback revision list",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "After each round of samples, your product lead gets one revision list by sample version and feature: the changes people agree on, the feedback that conflicts, and drafted notes for the next supplier brief. The product owner decides.",
-  "directory": "https://fullypowered.ai/capabilities/product-sample-feedback-revision-list/",
+  "directory": "https://fullypowered.ai/workflow templates/product-sample-feedback-revision-list/",
   "primary_function": "functions/product-management",
   "functions": [
     "functions/product-management"

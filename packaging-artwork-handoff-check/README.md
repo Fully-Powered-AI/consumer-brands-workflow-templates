@@ -2,7 +2,7 @@
 
 Before packaging artwork goes to print, the packaging owner gets a checklist that matches each file to the approved product facts, pack sizes, variants and printer specifications, with version conflicts, missing files and missing approvals listed. It writes and judges no label claim.
 
-*Capability template · Consumer brands · Marketing and content · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/packaging-artwork-handoff-check/)*
+*Workflow template · Consumer brands · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/packaging-artwork-handoff-check/)*
 
 ## The outcome
 
@@ -42,7 +42,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [New business lines](https://fullypowered.ai/situations/new-business-lines/), when a first range or a new pack size is going to print.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the number of variants outgrows the memory of the person who sends the files.
 
-This capability checks files against records. To edit wording, use [Copy-edit with a change list](https://fullypowered.ai/capabilities/copy-edit-with-a-change-list/). To plan the weeks around a launch, use [Launch checklist](https://fullypowered.ai/capabilities/launch-checklist/). To check the facts on a product page, use [Product-page facts gap review](https://fullypowered.ai/capabilities/product-page-facts-gap-review/).
+This workflow template checks files against records. To edit wording, use [Copy-edit with a change list](https://fullypowered.ai/workflows/copy-edit-with-a-change-list/). To plan the weeks around a launch, use [Launch checklist](https://fullypowered.ai/workflows/launch-checklist/). To check the facts on a product page, use [Product-page facts gap review](https://fullypowered.ai/workflows/product-page-facts-gap-review/).
 
 ## What has to change for your company
 
@@ -50,9 +50,9 @@ Use your own column names or rename them to the defaults; the assistant stops an
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude, in two runs, the second not independent of the edits made after the first; the record is published with it. It has not been tested in a client environment, and it has not been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude, in two runs, the second not independent of the edits made after the first; the record is published with it. It has not been tested in a client environment, and it has not been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past print run your team remembers well, plus hard cases written in advance with their expected behavior: two versions of one panel, a barcode that belongs to another size, a regulated line with no specialist reference, a header that does not match. The packaging owner checks every finding against the files before anyone relies on the checklist. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on a past print run your team remembers well, plus hard cases written in advance with their expected behavior: two versions of one panel, a barcode that belongs to another size, a regulated line with no specialist reference, a header that does not match. The packaging owner checks every finding against the files before anyone relies on the checklist. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -63,11 +63,11 @@ Testing in your environment means running it on a past print run your team remem
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -77,12 +77,12 @@ Testing in your environment means running it on a past print run your team remem
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Launch checklist](https://fullypowered.ai/capabilities/launch-checklist/)
-- [Copy edit with a change list](https://fullypowered.ai/capabilities/copy-edit-with-a-change-list/)
-- [Product-page facts gap review](https://fullypowered.ai/capabilities/product-page-facts-gap-review/)
+- [Launch checklist](https://fullypowered.ai/workflow templates/launch-checklist/)
+- [Copy edit with a change list](https://fullypowered.ai/workflow templates/copy-edit-with-a-change-list/)
+- [Product-page facts gap review](https://fullypowered.ai/workflow templates/product-page-facts-gap-review/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
