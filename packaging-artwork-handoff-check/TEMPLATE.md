@@ -225,4 +225,4 @@ finding or send files. Never ask for a password or a login code.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI. Tried on its invented example on 10 November 2026 in Claude, in two runs, the second by the session that edited the instructions and so not independent of them; the record is published with it. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried on its invented example on 10 November 2026 in Claude, in two runs, the second by the session that edited the instructions and so not independent of them; the record is published with it. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

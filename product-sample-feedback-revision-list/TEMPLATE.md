@@ -218,4 +218,4 @@ sample is safe. Never ask for passwords or login codes.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI. Not yet tested in a client environment. Revised after review on 10 November 2026: rules added for a mixed fact-and-wish sentence, a missing specialist, the run date, and four clarifications carried into the instruction block.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Not yet tested in a client environment. Revised after review on 10 November 2026: rules added for a mixed fact-and-wish sentence, a missing specialist, the run date, and four clarifications carried into the instruction block.
