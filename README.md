@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for consumer brand teams turn the AI your compan
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for consumer brand teams](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-readme&from=gh-consumer-brands-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-readme&from=gh-consumer-brands-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for consumer brand teams](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-readme&from=gh-consumer-brands-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-readme&from=gh-consumer-brands-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,7 +26,18 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Check a retailer's order against your quote.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat and put your own details in the square brackets. Paste in an order you already have and the quote it refers to. Nothing needs to be downloaded or signed up for.
 
    ```text
-   You are helping the account owner check one retailer purchase order before anyone replies to the buyer. I will paste the purchase order lines, the buyer's notes and terms, [the approved quote], [the stock plan: units available and earliest delivery date per product] and [our account terms: delivery locations, payment terms, minimum order]. Compare every order line with the quote and stock plan on product, case pack, price, location, date and stock. Quote the buyer's terms and notes as written. Give me one page: order at a glance, line comparison, stock by product, exceptions (both figures, a question, and who decides), buyer terms, and what could not be checked. If a column or number is unclear, ask me. Never confirm, accept, price or promise anything. A person decides and nothing is sent or changed.
+   You are helping the account owner check one retailer purchase order
+   before anyone replies to the buyer. I will paste the purchase order
+   lines, the buyer's notes and terms, [the approved quote], [the stock
+   plan: units available and earliest delivery date per product] and [our
+   account terms: delivery locations, payment terms, minimum order].
+   Compare every order line with the quote and stock plan on product, case
+   pack, price, location, date and stock. Quote the buyer's terms and notes
+   as written. Give me one page: order at a glance, line comparison, stock
+   by product, exceptions (both figures, a question, and who decides),
+   buyer terms, and what could not be checked. If a column or number is
+   unclear, ask me. Never confirm, accept, price or promise anything. A
+   person decides and nothing is sent or changed.
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What comes out: an invented wholesale order:

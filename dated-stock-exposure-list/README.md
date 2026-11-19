@@ -3,7 +3,7 @@
 See every dated batch against each retailer's acceptance rules before the next order. The quality owner and supply lead decide what to do.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Dated stock exposure list on our website](https://fullypowered.ai/workflows/dated-stock-exposure-list/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-dated-stock-exposure-list&from=gh-dated-stock-exposure-list) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Dated stock exposure list on our website](https://fullypowered.ai/workflows/dated-stock-exposure-list/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-dated-stock-exposure-list&from=gh-dated-stock-exposure-list). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 

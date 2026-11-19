@@ -3,7 +3,7 @@
 Map one production batch from its record to every recorded shipment, with each gap written as a question. A person decides scope; it decides no hold.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Batch distribution trace on our website](https://fullypowered.ai/workflows/batch-distribution-trace/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-batch-distribution-trace&from=gh-batch-distribution-trace) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Batch distribution trace on our website](https://fullypowered.ai/workflows/batch-distribution-trace/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-batch-distribution-trace&from=gh-batch-distribution-trace). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 
