@@ -4,6 +4,8 @@ Before packaging artwork goes to print, the packaging owner gets a checklist tha
 
 *Workflow template · Consumer brands · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/packaging-artwork-handoff-check/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/packaging-artwork-handoff-check/?from=gh-packaging-artwork-handoff-check)
+
 ## The outcome
 
 The packaging owner sends artwork to the printer knowing what was compared and what was not. Every variant and every panel the printer needs has a line on one checklist: the file proposed for release, whether its size, colour mode and barcode match the printer's specification, whether its text matches the approved copy character for character, and whether a recorded approval exists for that exact version.

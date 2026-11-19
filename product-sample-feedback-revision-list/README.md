@@ -4,6 +4,8 @@ After each round of samples, your product lead gets one revision list by sample 
 
 *Workflow template · Consumer brands · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/product-sample-feedback-revision-list/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/product-sample-feedback-revision-list/?from=gh-product-sample-feedback-revision-list)
+
 ## The outcome
 
 When a supplier sends a second or third sample, the comments arrive from every direction: testers and customer panel members. Some refer to a version that has since changed, some have no label, and some pull in opposite directions. This workflow template turns them into one list that is sorted by sample version and by feature, so the team can see at a glance what is settled and what is not.

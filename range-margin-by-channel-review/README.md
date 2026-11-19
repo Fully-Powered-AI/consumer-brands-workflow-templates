@@ -4,6 +4,8 @@ When a wholesale offer or a promotion changes the economics of a range, the fina
 
 *Workflow template · Consumer brands · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/range-margin-by-channel-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/range-margin-by-channel-review/?from=gh-range-margin-by-channel-review)
+
 ## The outcome
 
 The question "which of our products earn money, and where?" gets an answer built from your own exports instead of a hunch. Each product is shown in each channel it sold through: net sales after discounts and returns, then the product cost, the packaging, the freight and the channel's fees, one layer at a time.

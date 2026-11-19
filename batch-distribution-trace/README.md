@@ -4,6 +4,8 @@ When the quality lead needs to know where one production batch went, they get a 
 
 *Workflow template · Consumer brands · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/batch-distribution-trace/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/batch-distribution-trace/?from=gh-batch-distribution-trace)
+
 ## The outcome
 
 Following one batch through a warehouse network usually means four exports open side by side and a lot of patience. This workflow template does that reading for you. It starts from the batch record and follows the batch location by location, then out through each dispatch line to the account that received it, and it keeps a running balance so you can see how much of the batch each location is recorded as holding.

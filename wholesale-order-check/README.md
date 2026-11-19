@@ -4,6 +4,8 @@ When a retailer's purchase order arrives, the account owner gets every line set 
 
 *Workflow template · Consumer brands · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/wholesale-order-check/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/wholesale-order-check/?from=gh-consumer-brands-wholesale-order-check)
+
 ## The outcome
 
 A purchase order from a retail buyer stops being something you skim and hope is right. Every line is compared, in the same order every time, with the quote you approved and the stock you planned: is this a product on the quote, in the case pack you quoted, at the price you quoted, going to a location on the account, on a date operations can meet, from stock that exists?

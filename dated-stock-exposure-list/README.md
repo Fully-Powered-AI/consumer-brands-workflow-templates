@@ -4,6 +4,8 @@ Before the next production or replenishment order, the supply planner gets a bat
 
 *Workflow template · Consumer brands · Supply chain and inventory · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/dated-stock-exposure-list/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/dated-stock-exposure-list/?from=gh-dated-stock-exposure-list)
+
 ## The outcome
 
 The supply planner sees, on one list, every batch of dated goods and where it stands against each account's rules: the date each batch was last able to ship to that account, how many days are left or how many were missed, and what the demand plan still sends there. The batches that need a decision are at the top, earliest first. Batches whose date cannot be placed are listed separately with the question that unlocks them.
