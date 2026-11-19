@@ -1,10 +1,17 @@
 # Wholesale order check
 
-When a retailer's purchase order arrives, the account owner gets every line set beside the approved quote and the stock plan: products, case packs, prices, delivery locations and dates, with each exception listed. People decide; nothing is confirmed to the buyer.
+Every purchase order line set beside the approved quote and stock plan, with each exception listed. People decide; nothing is confirmed to the buyer.
 
-*Workflow template · Consumer brands · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/wholesale-order-check/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Wholesale order check on our website](https://fullypowered.ai/workflows/wholesale-order-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-wholesale-order-check&from=gh-consumer-brands-wholesale-order-check) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/wholesale-order-check/?from=gh-consumer-brands-wholesale-order-check)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Consumer brands · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/wholesale-order-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-wholesale-order-check&from=gh-consumer-brands-wholesale-order-check)*
 
 ## The outcome
 
@@ -42,15 +49,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Sales](https://fullypowered.ai/functions/sales/): the step between a buyer's order and your answer to it.
-- [Supply chain and inventory](https://fullypowered.ai/functions/supply-chain-and-inventory/): operations sees the stock and date questions before a delivery is promised.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/): wholesale orders from retailers arrive against a quote and a range that keeps changing.
-- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/): brands that sell through stockists and marketplaces receive orders in many shapes.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/): makers who sell cases and pallets to trade buyers check the same things.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): more accounts and bigger orders than one person can check by eye.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/): long-running accounts where quotes, case packs and locations have drifted.
+- [Sales](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-wholesale-order-check&from=gh-consumer-brands-wholesale-order-check): the step between a buyer's order and your answer to it.
+- [Supply chain and inventory](https://fullypowered.ai/functions/supply-chain-and-inventory/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-wholesale-order-check&from=gh-consumer-brands-wholesale-order-check): operations sees the stock and date questions before a delivery is promised.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-wholesale-order-check&from=gh-consumer-brands-wholesale-order-check): wholesale orders from retailers arrive against a quote and a range that keeps changing.
+- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-wholesale-order-check&from=gh-consumer-brands-wholesale-order-check): brands that sell through stockists and marketplaces receive orders in many shapes.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-wholesale-order-check&from=gh-consumer-brands-wholesale-order-check): makers who sell cases and pallets to trade buyers check the same things.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-wholesale-order-check&from=gh-consumer-brands-wholesale-order-check): more accounts and bigger orders than one person can check by eye.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-wholesale-order-check&from=gh-consumer-brands-wholesale-order-check): long-running accounts where quotes, case packs and locations have drifted.
 
-It sits beside [Discount request review](https://fullypowered.ai/workflows/discount-request-review/), which handles a request for a lower price before an order exists, [Sales proposal preparation](https://fullypowered.ai/workflows/sales-proposal-preparation/), which produces the quote this check compares against, and [Unshipped order review](https://fullypowered.ai/workflows/unshipped-order-review/), which follows orders that are accepted but not yet shipped.
+It sits beside [Discount request review](https://fullypowered.ai/workflows/discount-request-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-wholesale-order-check&from=gh-consumer-brands-wholesale-order-check), which handles a request for a lower price before an order exists, [Sales proposal preparation](https://fullypowered.ai/workflows/sales-proposal-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-wholesale-order-check&from=gh-consumer-brands-wholesale-order-check), which produces the quote this check compares against, and [Unshipped order review](https://fullypowered.ai/workflows/unshipped-order-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-wholesale-order-check&from=gh-consumer-brands-wholesale-order-check), which follows orders that are accepted but not yet shipped.
 
 ## What has to change for your company
 
@@ -64,7 +71,7 @@ It sits beside [Discount request review](https://fullypowered.ai/workflows/disco
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude, in two runs; the record of both is published with it. The instructions, the output format and the example were revised between the runs, and the second run, made by the assistant that revised them, is the one the published example shows. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on past purchase orders your account owners remember well, plus hard cases written in advance: a case pack that differs from the quote, a location not on the account, two lines drawing on the same stock, a quote past its date, a term the buyer added. The account owner checks every figure against the order and the quote before anyone relies on the page. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on past purchase orders your account owners remember well, plus hard cases written in advance: a case pack that differs from the quote, a location not on the account, two lines drawing on the same stock, a quote past its date, a term the buyer added. The account owner checks every figure against the order and the quote before anyone relies on the page. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-wholesale-order-check&from=gh-consumer-brands-wholesale-order-check) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-wholesale-order-check&from=gh-consumer-brands-wholesale-order-check) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -91,10 +98,10 @@ Testing in your environment means running it on past purchase orders your accoun
 
 ## Related workflow templates
 
-- [Discount request review](https://fullypowered.ai/workflows/discount-request-review/)
-- [Sales proposal preparation](https://fullypowered.ai/workflows/sales-proposal-preparation/)
-- [Unshipped order review](https://fullypowered.ai/workflows/unshipped-order-review/)
+- [Discount request review](https://fullypowered.ai/workflows/discount-request-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-wholesale-order-check&from=gh-consumer-brands-wholesale-order-check)
+- [Sales proposal preparation](https://fullypowered.ai/workflows/sales-proposal-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-wholesale-order-check&from=gh-consumer-brands-wholesale-order-check)
+- [Unshipped order review](https://fullypowered.ai/workflows/unshipped-order-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-wholesale-order-check&from=gh-consumer-brands-wholesale-order-check)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-wholesale-order-check&from=gh-consumer-brands-wholesale-order-check).

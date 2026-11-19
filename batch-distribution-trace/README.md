@@ -1,10 +1,17 @@
 # Batch distribution trace
 
-When the quality lead needs to know where one production batch went, they get a map from the batch record to every recorded shipment: quantities, transfers and repacking links, with each gap in the trace written as a question. It decides no hold and contacts nobody.
+Map one production batch from its record to every recorded shipment, with each gap written as a question. A person decides scope; it decides no hold.
 
-*Workflow template · Consumer brands · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/batch-distribution-trace/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Batch distribution trace on our website](https://fullypowered.ai/workflows/batch-distribution-trace/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-batch-distribution-trace&from=gh-batch-distribution-trace) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/batch-distribution-trace/?from=gh-batch-distribution-trace)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Consumer brands · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/batch-distribution-trace/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-batch-distribution-trace&from=gh-batch-distribution-trace)*
 
 ## The outcome
 
@@ -43,19 +50,19 @@ One trace in a fixed order:
 
 Good looks like this: every number traces to a row in an export, no unresolved line is quietly counted in or out, and nowhere does the trace say a product is safe, unsafe or affected.
 
-This is not a recall contact plan and not a stock count. [Product recall customer contact plan](https://fullypowered.ai/workflows/product-recall-customer-contact-plan/) starts after a recall has been issued and works from affected customers. [Stock count reconciliation](https://fullypowered.ai/workflows/stock-count-reconciliation/) compares a physical count with the books. This workflow template only answers where the records say one batch went, and where they do not say.
+This is not a recall contact plan and not a stock count. [Product recall customer contact plan](https://fullypowered.ai/workflows/product-recall-customer-contact-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-batch-distribution-trace&from=gh-batch-distribution-trace) starts after a recall has been issued and works from affected customers. [Stock count reconciliation](https://fullypowered.ai/workflows/stock-count-reconciliation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-batch-distribution-trace&from=gh-batch-distribution-trace) compares a physical count with the books. This workflow template only answers where the records say one batch went, and where they do not say.
 
 See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Quality management](https://fullypowered.ai/functions/quality-management/), where a batch concern needs a fast, careful reading of where the stock is.
-- [Supply chain and inventory](https://fullypowered.ai/functions/supply-chain-and-inventory/), which owns the movement and dispatch records the trace reads.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where one batch can leave through several warehouses, a production partner and many retail accounts.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), for makers who ship their own batches onward through distributors.
-- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where a batch is split between marketplace, wholesale and own-site orders.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the records have grown over years and codes are written several ways.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when a second warehouse or a production partner has been added faster than the record keeping.
+- [Quality management](https://fullypowered.ai/functions/quality-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-batch-distribution-trace&from=gh-batch-distribution-trace), where a batch concern needs a fast, careful reading of where the stock is.
+- [Supply chain and inventory](https://fullypowered.ai/functions/supply-chain-and-inventory/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-batch-distribution-trace&from=gh-batch-distribution-trace), which owns the movement and dispatch records the trace reads.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-batch-distribution-trace&from=gh-batch-distribution-trace), where one batch can leave through several warehouses, a production partner and many retail accounts.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-batch-distribution-trace&from=gh-batch-distribution-trace), for makers who ship their own batches onward through distributors.
+- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-batch-distribution-trace&from=gh-batch-distribution-trace), where a batch is split between marketplace, wholesale and own-site orders.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-batch-distribution-trace&from=gh-batch-distribution-trace), where the records have grown over years and codes are written several ways.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-batch-distribution-trace&from=gh-batch-distribution-trace), when a second warehouse or a production partner has been added faster than the record keeping.
 
 ## What has to change for your company
 
@@ -70,7 +77,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. Small wording edits made to the instructions and example after that trial have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past batch the quality lead already knows, with hard cases written in advance: a header that does not match, a receipt that differs from production, a transfer larger than the stock recorded, a line with two batch codes, a near-match code and a repack that changes the unit. Operations checks every route against carrier and retailer documents before anyone relies on the map. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past batch the quality lead already knows, with hard cases written in advance: a header that does not match, a receipt that differs from production, a transfer larger than the stock recorded, a line with two batch codes, a near-match code and a repack that changes the unit. Operations checks every route against carrier and retailer documents before anyone relies on the map. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-batch-distribution-trace&from=gh-batch-distribution-trace) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-batch-distribution-trace&from=gh-batch-distribution-trace) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -97,10 +104,10 @@ Testing in your environment means running it on a past batch the quality lead al
 
 ## Related workflow templates
 
-- [Product recall customer contact plan](https://fullypowered.ai/workflows/product-recall-customer-contact-plan/)
-- [Stock count reconciliation](https://fullypowered.ai/workflows/stock-count-reconciliation/)
-- [Supplier quality response check](https://fullypowered.ai/workflows/supplier-quality-response-check/)
+- [Product recall customer contact plan](https://fullypowered.ai/workflows/product-recall-customer-contact-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-batch-distribution-trace&from=gh-batch-distribution-trace)
+- [Stock count reconciliation](https://fullypowered.ai/workflows/stock-count-reconciliation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-batch-distribution-trace&from=gh-batch-distribution-trace)
+- [Supplier quality response check](https://fullypowered.ai/workflows/supplier-quality-response-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-batch-distribution-trace&from=gh-batch-distribution-trace)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-batch-distribution-trace&from=gh-batch-distribution-trace).

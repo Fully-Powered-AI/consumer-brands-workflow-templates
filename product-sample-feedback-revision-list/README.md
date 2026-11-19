@@ -1,10 +1,17 @@
 # Product sample feedback revision list
 
-After each round of samples, your product lead gets one revision list by sample version and feature: the changes people agree on, the feedback that conflicts, and drafted notes for the next supplier brief. The product owner decides.
+Turn each round of sample feedback into one revision list by version and feature, with conflicts shown. The product owner decides.
 
-*Workflow template · Consumer brands · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/product-sample-feedback-revision-list/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Product sample feedback revision list on our website](https://fullypowered.ai/workflows/product-sample-feedback-revision-list/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-product-sample-feedback-revision-list&from=gh-product-sample-feedback-revision-list) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/product-sample-feedback-revision-list/?from=gh-product-sample-feedback-revision-list)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Consumer brands · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/product-sample-feedback-revision-list/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-product-sample-feedback-revision-list&from=gh-product-sample-feedback-revision-list)*
 
 ## The outcome
 
@@ -33,14 +40,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Product management](https://fullypowered.ai/functions/product-management/), where the revision list is the working record between one sample and the next.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), for teams developing products with outside suppliers.
-- [E-commerce & retail](https://fullypowered.ai/industries/ecommerce-and-retail/), for own-label ranges developed with a supplier.
-- [Hardware & physical technology](https://fullypowered.ai/industries/hardware-and-physical-technology/), for devices and accessories that go through several sample rounds.
-- [New business lines](https://fullypowered.ai/situations/new-business-lines/), when the first product in a new category goes through its first samples.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more people comment on samples and the notes no longer fit in one head.
+- [Product management](https://fullypowered.ai/functions/product-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-product-sample-feedback-revision-list&from=gh-product-sample-feedback-revision-list), where the revision list is the working record between one sample and the next.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-product-sample-feedback-revision-list&from=gh-product-sample-feedback-revision-list), for teams developing products with outside suppliers.
+- [E-commerce & retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-product-sample-feedback-revision-list&from=gh-product-sample-feedback-revision-list), for own-label ranges developed with a supplier.
+- [Hardware & physical technology](https://fullypowered.ai/industries/hardware-and-physical-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-product-sample-feedback-revision-list&from=gh-product-sample-feedback-revision-list), for devices and accessories that go through several sample rounds.
+- [New business lines](https://fullypowered.ai/situations/new-business-lines/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-product-sample-feedback-revision-list&from=gh-product-sample-feedback-revision-list), when the first product in a new category goes through its first samples.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-product-sample-feedback-revision-list&from=gh-product-sample-feedback-revision-list), when more people comment on samples and the notes no longer fit in one head.
 
-This is different from [customer feedback themes](https://fullypowered.ai/workflows/customer-feedback-themes/), which groups what customers say about a product already on sale, and from the [acceptance criteria sheet](https://fullypowered.ai/workflows/acceptance-criteria-sheet/), which defines done for a software story. This one reconciles feedback on specific samples, version by version.
+This is different from [customer feedback themes](https://fullypowered.ai/workflows/customer-feedback-themes/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-product-sample-feedback-revision-list&from=gh-product-sample-feedback-revision-list), which groups what customers say about a product already on sale, and from the [acceptance criteria sheet](https://fullypowered.ai/workflows/acceptance-criteria-sheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-product-sample-feedback-revision-list&from=gh-product-sample-feedback-revision-list), which defines done for a software story. This one reconciles feedback on specific samples, version by version.
 
 ## What has to change for your company
 
@@ -50,7 +57,7 @@ List the features you review a sample on, and use the same words in the concept 
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, and run again after the wording was clarified; the record of the second run is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past sample round your product lead already knows, with cases written in advance: a note with no sample label, two testers who disagree, a supplier change nobody tried. The product lead checks every line against the original notes before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past sample round your product lead already knows, with cases written in advance: a note with no sample label, two testers who disagree, a supplier change nobody tried. The product lead checks every line against the original notes before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-product-sample-feedback-revision-list&from=gh-product-sample-feedback-revision-list) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-product-sample-feedback-revision-list&from=gh-product-sample-feedback-revision-list) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -77,10 +84,10 @@ Testing in your environment means running it on a past sample round your product
 
 ## Related workflow templates
 
-- [Customer feedback themes](https://fullypowered.ai/workflows/customer-feedback-themes/)
-- [Acceptance criteria sheet](https://fullypowered.ai/workflows/acceptance-criteria-sheet/)
-- [Supplier quality response check](https://fullypowered.ai/workflows/supplier-quality-response-check/)
+- [Customer feedback themes](https://fullypowered.ai/workflows/customer-feedback-themes/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-product-sample-feedback-revision-list&from=gh-product-sample-feedback-revision-list)
+- [Acceptance criteria sheet](https://fullypowered.ai/workflows/acceptance-criteria-sheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-product-sample-feedback-revision-list&from=gh-product-sample-feedback-revision-list)
+- [Supplier quality response check](https://fullypowered.ai/workflows/supplier-quality-response-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-product-sample-feedback-revision-list&from=gh-product-sample-feedback-revision-list)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-product-sample-feedback-revision-list&from=gh-product-sample-feedback-revision-list).

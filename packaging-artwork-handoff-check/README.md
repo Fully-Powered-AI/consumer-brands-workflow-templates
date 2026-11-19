@@ -1,10 +1,17 @@
 # Packaging artwork handoff check
 
-Before packaging artwork goes to print, the packaging owner gets a checklist that matches each file to the approved product facts, pack sizes, variants and printer specifications, with version conflicts, missing files and missing approvals listed. It writes and judges no label claim.
+Before packaging goes to print, get a checklist matching each artwork file to product facts, pack sizes and printer specs. A person confirms release.
 
-*Workflow template · Consumer brands · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/packaging-artwork-handoff-check/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Packaging artwork handoff check on our website](https://fullypowered.ai/workflows/packaging-artwork-handoff-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-packaging-artwork-handoff-check&from=gh-packaging-artwork-handoff-check) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/packaging-artwork-handoff-check/?from=gh-packaging-artwork-handoff-check)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Consumer brands · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/packaging-artwork-handoff-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-packaging-artwork-handoff-check&from=gh-packaging-artwork-handoff-check)*
 
 ## The outcome
 
@@ -36,15 +43,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), where the packaging revision is owned and the copy is kept.
-- [Quality management](https://fullypowered.ai/functions/quality-management/), where review records and approvals need to match the version that ships.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where one product comes in several pack sizes and variants, each with its own artwork.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where packaging is printed to a supplier's specification and a wrong plate is paid for.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where a private-label range is sent to print by a small team.
-- [New business lines](https://fullypowered.ai/situations/new-business-lines/), when a first range or a new pack size is going to print.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the number of variants outgrows the memory of the person who sends the files.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-packaging-artwork-handoff-check&from=gh-packaging-artwork-handoff-check), where the packaging revision is owned and the copy is kept.
+- [Quality management](https://fullypowered.ai/functions/quality-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-packaging-artwork-handoff-check&from=gh-packaging-artwork-handoff-check), where review records and approvals need to match the version that ships.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-packaging-artwork-handoff-check&from=gh-packaging-artwork-handoff-check), where one product comes in several pack sizes and variants, each with its own artwork.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-packaging-artwork-handoff-check&from=gh-packaging-artwork-handoff-check), where packaging is printed to a supplier's specification and a wrong plate is paid for.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-packaging-artwork-handoff-check&from=gh-packaging-artwork-handoff-check), where a private-label range is sent to print by a small team.
+- [New business lines](https://fullypowered.ai/situations/new-business-lines/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-packaging-artwork-handoff-check&from=gh-packaging-artwork-handoff-check), when a first range or a new pack size is going to print.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-packaging-artwork-handoff-check&from=gh-packaging-artwork-handoff-check), when the number of variants outgrows the memory of the person who sends the files.
 
-This workflow template checks files against records. To edit wording, use [Copy-edit with a change list](https://fullypowered.ai/workflows/copy-edit-with-a-change-list/). To plan the weeks around a launch, use [Launch checklist](https://fullypowered.ai/workflows/launch-checklist/). To check the facts on a product page, use [Product-page facts gap review](https://fullypowered.ai/workflows/product-page-facts-gap-review/).
+This workflow template checks files against records. To edit wording, use [Copy-edit with a change list](https://fullypowered.ai/workflows/copy-edit-with-a-change-list/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-packaging-artwork-handoff-check&from=gh-packaging-artwork-handoff-check). To plan the weeks around a launch, use [Launch checklist](https://fullypowered.ai/workflows/launch-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-packaging-artwork-handoff-check&from=gh-packaging-artwork-handoff-check). To check the facts on a product page, use [Product-page facts gap review](https://fullypowered.ai/workflows/product-page-facts-gap-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-packaging-artwork-handoff-check&from=gh-packaging-artwork-handoff-check).
 
 ## What has to change for your company
 
@@ -54,7 +61,7 @@ Use your own column names or rename them to the defaults; the assistant stops an
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude, in two runs, the second not independent of the edits made after the first; the record is published with it. It has not been tested in a client environment, and it has not been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past print run your team remembers well, plus hard cases written in advance with their expected behavior: two versions of one panel, a barcode that belongs to another size, a regulated line with no specialist reference, a header that does not match. The packaging owner checks every finding against the files before anyone relies on the checklist. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on a past print run your team remembers well, plus hard cases written in advance with their expected behavior: two versions of one panel, a barcode that belongs to another size, a regulated line with no specialist reference, a header that does not match. The packaging owner checks every finding against the files before anyone relies on the checklist. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-packaging-artwork-handoff-check&from=gh-packaging-artwork-handoff-check) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-packaging-artwork-handoff-check&from=gh-packaging-artwork-handoff-check) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -81,10 +88,10 @@ Testing in your environment means running it on a past print run your team remem
 
 ## Related workflow templates
 
-- [Launch checklist](https://fullypowered.ai/workflows/launch-checklist/)
-- [Copy edit with a change list](https://fullypowered.ai/workflows/copy-edit-with-a-change-list/)
-- [Product-page facts gap review](https://fullypowered.ai/workflows/product-page-facts-gap-review/)
+- [Launch checklist](https://fullypowered.ai/workflows/launch-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-packaging-artwork-handoff-check&from=gh-packaging-artwork-handoff-check)
+- [Copy edit with a change list](https://fullypowered.ai/workflows/copy-edit-with-a-change-list/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-packaging-artwork-handoff-check&from=gh-packaging-artwork-handoff-check)
+- [Product-page facts gap review](https://fullypowered.ai/workflows/product-page-facts-gap-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-packaging-artwork-handoff-check&from=gh-packaging-artwork-handoff-check)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-packaging-artwork-handoff-check&from=gh-packaging-artwork-handoff-check).

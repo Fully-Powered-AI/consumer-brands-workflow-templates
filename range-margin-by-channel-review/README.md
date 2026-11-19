@@ -1,10 +1,17 @@
 # Range margin by channel review
 
-When a wholesale offer or a promotion changes the economics of a range, the finance lead gets a margin worksheet for every product in every channel, showing which cost layers are in each figure and which gaps are still open. It invents no cost and changes no price.
+Get a margin worksheet for every product in every channel, with confirmed and estimated costs and open gaps listed. The finance lead decides.
 
-*Workflow template · Consumer brands · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/range-margin-by-channel-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Range margin by channel review on our website](https://fullypowered.ai/workflows/range-margin-by-channel-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-range-margin-by-channel-review&from=gh-range-margin-by-channel-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/range-margin-by-channel-review/?from=gh-range-margin-by-channel-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Consumer brands · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/range-margin-by-channel-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-range-margin-by-channel-review&from=gh-range-margin-by-channel-review)*
 
 ## The outcome
 
@@ -41,20 +48,20 @@ One worksheet in a fixed order:
 
 Good looks like this: every figure traces to a row in an export, no margin is shown without saying which layers it includes, and nowhere does the worksheet say what a price should be.
 
-This is not a price test and not a landed-cost calculation. [Price change review](https://fullypowered.ai/workflows/price-change-review/) works proposed prices through to gross profit, and [Product landed cost worksheet](https://fullypowered.ai/workflows/product-landed-cost-worksheet/) builds a product cost from an import shipment's invoices. This workflow template takes costs as you supply them and shows where each product stands across your channels.
+This is not a price test and not a landed-cost calculation. [Price change review](https://fullypowered.ai/workflows/price-change-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-range-margin-by-channel-review&from=gh-range-margin-by-channel-review) works proposed prices through to gross profit, and [Product landed cost worksheet](https://fullypowered.ai/workflows/product-landed-cost-worksheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-range-margin-by-channel-review&from=gh-range-margin-by-channel-review) builds a product cost from an import shipment's invoices. This workflow template takes costs as you supply them and shows where each product stands across your channels.
 
 See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), which owns the cost basis and the margin.
-- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/), where the same product can look strong in one channel and thin in another.
-- [Sales](https://fullypowered.ai/functions/sales/), where a wholesale or promotion decision is made.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where one range sells through your own site, wholesale accounts and marketplaces at once.
-- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where channel fees and freight differ widely.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), for makers that sell their own goods through several routes.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when a new channel has been added faster than its costs have been tracked.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where a range has sold the same way for years and nobody has looked at it channel by channel.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-range-margin-by-channel-review&from=gh-range-margin-by-channel-review), which owns the cost basis and the margin.
+- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-range-margin-by-channel-review&from=gh-range-margin-by-channel-review), where the same product can look strong in one channel and thin in another.
+- [Sales](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-range-margin-by-channel-review&from=gh-range-margin-by-channel-review), where a wholesale or promotion decision is made.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-range-margin-by-channel-review&from=gh-range-margin-by-channel-review), where one range sells through your own site, wholesale accounts and marketplaces at once.
+- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-range-margin-by-channel-review&from=gh-range-margin-by-channel-review), where channel fees and freight differ widely.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-range-margin-by-channel-review&from=gh-range-margin-by-channel-review), for makers that sell their own goods through several routes.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-range-margin-by-channel-review&from=gh-range-margin-by-channel-review), when a new channel has been added faster than its costs have been tracked.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-range-margin-by-channel-review&from=gh-range-margin-by-channel-review), where a range has sold the same way for years and nobody has looked at it channel by channel.
 
 ## What has to change for your company
 
@@ -69,7 +76,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past quarter your finance lead knows well, with hard cases written in advance: an export whose headers do not match, a product with no packaging cost, a variant that exists in sales and not in the cost file, a fee rate of zero. The finance lead checks every figure against the exports before anyone relies on the worksheet. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past quarter your finance lead knows well, with hard cases written in advance: an export whose headers do not match, a product with no packaging cost, a variant that exists in sales and not in the cost file, a fee rate of zero. The finance lead checks every figure against the exports before anyone relies on the worksheet. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-range-margin-by-channel-review&from=gh-range-margin-by-channel-review) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-range-margin-by-channel-review&from=gh-range-margin-by-channel-review) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -96,10 +103,10 @@ Testing in your environment means running it on a past quarter your finance lead
 
 ## Related workflow templates
 
-- [Price change review](https://fullypowered.ai/workflows/price-change-review/)
-- [Product landed cost worksheet](https://fullypowered.ai/workflows/product-landed-cost-worksheet/)
-- [Discount request review](https://fullypowered.ai/workflows/discount-request-review/)
+- [Price change review](https://fullypowered.ai/workflows/price-change-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-range-margin-by-channel-review&from=gh-range-margin-by-channel-review)
+- [Product landed cost worksheet](https://fullypowered.ai/workflows/product-landed-cost-worksheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-range-margin-by-channel-review&from=gh-range-margin-by-channel-review)
+- [Discount request review](https://fullypowered.ai/workflows/discount-request-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-range-margin-by-channel-review&from=gh-range-margin-by-channel-review)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-range-margin-by-channel-review&from=gh-range-margin-by-channel-review).
