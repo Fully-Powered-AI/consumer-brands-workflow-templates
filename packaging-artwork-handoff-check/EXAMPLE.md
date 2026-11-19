@@ -1,6 +1,6 @@
-# Packaging artwork handoff check: an invented example
+# Packaging artwork handoff check: an example
 
-*Illustrative example with invented data.* The brand, the printer, the product codes, the barcodes, the approval references and the files below are all invented. "Brand A" is a small invented granola brand sending three variants to "Printer A". First come the inputs the packaging owner supplied, in full, then the checklist the workflow template returned.
+*Illustrative example with sample data.* The brand, the printer, the product codes, the barcodes, the approval references and the files below are all illustrative. "Brand A" is a small illustrative granola brand sending three variants to "Printer A". First come the inputs the packaging owner supplied, in full, then the checklist the workflow template returned.
 
 ## The inputs
 

@@ -1,6 +1,6 @@
-# Product sample feedback revision list: an invented example
+# Product sample feedback revision list: an example
 
-*Illustrative example with invented data.* The brand, the supplier, the product, the people and every date and note are made up. A product lead at an invented consumer brand is reconciling the feedback on the second sample of an insulated lunch tote from Supplier A.
+*Illustrative example with sample data.* The brand, the supplier, the product, the people and every date and note are made up. A product lead at an illustrative consumer brand is reconciling the feedback on the second sample of an insulated lunch tote from Supplier A.
 
 ## What the person supplies
 

@@ -8,7 +8,7 @@ Before packaging goes to print, get a checklist matching each artwork file to pr
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Consumer brands · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/packaging-artwork-handoff-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-packaging-artwork-handoff-check&from=gh-packaging-artwork-handoff-check)*
@@ -39,7 +39,7 @@ One checklist with a line for every required file slot, marked clear, blocked or
 
 When nothing is found, the checklist says so and still leaves the release to the packaging owner.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -59,7 +59,7 @@ Use your own column names or rename them to the defaults; the assistant stops an
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude, in two runs, the second not independent of the edits made after the first; the record is published with it. It has not been tested in a client environment, and it has not been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its example on 10 November 2026 in Claude, in two runs, the second not independent of the edits made after the first; the record is published with it. It has not been tested in a client environment, and it has not been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past print run your team remembers well, plus hard cases written in advance with their expected behavior: two versions of one panel, a barcode that belongs to another size, a regulated line with no specialist reference, a header that does not match. The packaging owner checks every finding against the files before anyone relies on the checklist. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-packaging-artwork-handoff-check&from=gh-packaging-artwork-handoff-check) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-packaging-artwork-handoff-check&from=gh-packaging-artwork-handoff-check) shows the record.
 
@@ -67,13 +67,13 @@ Testing in your environment means running it on a past print run your team remem
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

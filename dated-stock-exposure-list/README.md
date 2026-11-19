@@ -8,7 +8,7 @@ See every dated batch against each retailer's acceptance rules before the next o
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Consumer brands · Supply chain and inventory · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/dated-stock-exposure-list/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-dated-stock-exposure-list&from=gh-dated-stock-exposure-list)*
@@ -35,7 +35,7 @@ The supply planner starts it when date-coded stock needs review before another p
 
 One list in a fixed order: batches that need a decision, dates that could not be placed, open items with the role that answers each, batches with nothing flagged, and notes on rules and plan lines that could not be used. Each batch line shows its stated date and where the date came from, and each account's last dispatch date worked out in days. It closes with totals by unit.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -52,7 +52,7 @@ Set how many days ahead count as close, and the date format your system exports.
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with the template; it lists the edits made afterward, which clarify wording the run had to interpret and have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026, and the record of that run is published with the template; it lists the edits made afterward, which clarify wording the run had to interpret and have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past stock position your team already understands, with cases written in advance: a month-only date, a date that conflicts with the approved list, a rule stated as a percentage, a batch split across two locations. The supply planner checks every date and day count against the export before anyone relies on the list. [Slow-moving stock and markdown plan](https://fullypowered.ai/workflows/slow-moving-stock-and-markdown-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-dated-stock-exposure-list&from=gh-dated-stock-exposure-list) is the neighbouring workflow template for stock that sells too slowly; this one is about stated dates against account rules.
 
@@ -60,13 +60,13 @@ Testing in your environment means running it on a past stock position your team 
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

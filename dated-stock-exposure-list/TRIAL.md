@@ -1,4 +1,4 @@
-# Trial: Dated stock exposure list, run on its invented example
+# Trial: Dated stock exposure list, run on its example
 
 - **Product:** Claude, run in Claude Code
 
@@ -6,7 +6,7 @@ Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). The assistant that ran th
 
 Date: 2026-11-10
 
-The inputs are the invented example in `public/example.md` (Fernhollow Goods, a made-up small food and body-care brand). No client data was used.
+The inputs are the example in `public/example.md` (Fernhollow Goods, a made-up small food and body-care brand). No client data was used.
 
 ## Inputs used
 

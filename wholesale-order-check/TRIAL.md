@@ -1,11 +1,11 @@
-# Trial: Wholesale order check, run on its invented example
+# Trial: Wholesale order check, run on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 - **Template version:** 0.1.0
 
-This is a record of two runs of the workflow template on its own invented example. The brand, the retailer, the products, the prices, the stock and the dates are invented, and no client data was used. It shows what the template produced on one set of inputs. It is not a test in any company's environment.
+This is a record of two runs of the workflow template on its own example. The brand, the retailer, the products, the prices, the stock and the dates are illustrative, and no client data was used. It shows what the template produced on one set of inputs. It is not a test in any company's environment.
 
 The first run is below as recorded. An independent review of the template and its example then found where the instructions left room to guess, and the instructions, the output format and the example were revised. The second run, made on the revised instructions, is recorded after the first.
 
@@ -13,7 +13,7 @@ The first run is below as recorded. An independent review of the template and it
 
 The assistant that ran this trial did not write the template.
 
-The inputs are the invented example in `public/example.md` (a made-up granola and snack-bar brand and a fictional retailer, Retailer A).
+The inputs are the example in `public/example.md` (a made-up granola and snack-bar brand and a fictional retailer, Retailer A).
 
 ## Inputs used (first run)
 

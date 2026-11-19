@@ -8,7 +8,7 @@ Get a margin worksheet for every product in every channel, with confirmed and es
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Consumer brands · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/range-margin-by-channel-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-range-margin-by-channel-review&from=gh-range-margin-by-channel-review)*
@@ -50,7 +50,7 @@ Good looks like this: every figure traces to a row in an export, no margin is sh
 
 This is not a price test and not a landed-cost calculation. [Price change review](https://fullypowered.ai/workflows/price-change-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-range-margin-by-channel-review&from=gh-range-margin-by-channel-review) works proposed prices through to gross profit, and [Product landed cost worksheet](https://fullypowered.ai/workflows/product-landed-cost-worksheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-range-margin-by-channel-review&from=gh-range-margin-by-channel-review) builds a product cost from an import shipment's invoices. This workflow template takes costs as you supply them and shows where each product stands across your channels.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -74,7 +74,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its example in Claude on 10 November 2026; the record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past quarter your finance lead knows well, with hard cases written in advance: an export whose headers do not match, a product with no packaging cost, a variant that exists in sales and not in the cost file, a fee rate of zero. The finance lead checks every figure against the exports before anyone relies on the worksheet. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-range-margin-by-channel-review&from=gh-range-margin-by-channel-review) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-range-margin-by-channel-review&from=gh-range-margin-by-channel-review) describes the record we keep.
 
@@ -82,13 +82,13 @@ Testing in your environment means running it on a past quarter your finance lead
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

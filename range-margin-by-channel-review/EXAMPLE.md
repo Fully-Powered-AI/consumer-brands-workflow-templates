@@ -1,6 +1,6 @@
-# Range margin by channel review: an invented example
+# Range margin by channel review: an example
 
-*Illustrative example with invented data.* The business, the products and every figure below are invented. Marrowby Pantry is an invented six-person maker of granola and oat bars that sells through its own website, to wholesale accounts and on a marketplace. A wholesale account has asked for better terms, and the finance lead wants to see what each product earns in each channel first. The bookkeeper runs the review; people are referred to by role.
+*Illustrative example with sample data.* The business, the products and every figure below are illustrative. Marrowby Pantry is an illustrative six-person maker of granola and oat bars that sells through its own website, to wholesale accounts and on a marketplace. A wholesale account has asked for better terms, and the finance lead wants to see what each product earns in each channel first. The bookkeeper runs the review; people are referred to by role.
 
 The inputs come first, in full, so the template can be run on them. The worksheet follows.
 

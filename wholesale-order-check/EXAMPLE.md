@@ -1,6 +1,6 @@
-# Wholesale order check: an invented example
+# Wholesale order check: an example
 
-*Illustrative example with invented data.* The brand, the retailer, the products, the prices, the stock and every date below are invented. The brand, called the Brand here, makes granola and snack bars. Retailer A is a fictional retail chain. The Brand's account owner runs the check and, with operations, decides. People are referred to by role.
+*Illustrative example with sample data.* The brand, the retailer, the products, the prices, the stock and every date below are illustrative. The brand, called the Brand here, makes granola and snack bars. Retailer A is a fictional retail chain. The Brand's account owner runs the check and, with operations, decides. People are referred to by role.
 
 The inputs come first, in full, so the template can be run on them. The check follows.
 

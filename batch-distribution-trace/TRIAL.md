@@ -1,10 +1,10 @@
-# Batch distribution trace: tried once on its invented example
+# Batch distribution trace: tried once on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in [`example.md`](example.md): the batch record, movement export, repacking record, dispatch lines and settings for batch B2611A. No client data was used. The model that ran the template did not write it. It followed the instruction block and output format in the template on those inputs, and only afterwards compared its result with the published example's output.
+The inputs were the example in [`example.md`](example.md): the batch record, movement export, repacking record, dispatch lines and settings for batch B2611A. No client data was used. The model that ran the template did not write it. It followed the instruction block and output format in the template on those inputs, and only afterwards compared its result with the published example's output.
 
 ## What came out
 
@@ -43,7 +43,7 @@ The trace followed the output format in six sections. These are its substantial 
 
 ### Shortcomings of this trial
 
-- It was one run, by one model, on one invented example, where the answer was already published. It shows that the instructions can be followed to the same figures. It does not show how the template behaves on messy real files, other file formats, other models, or headers that differ from the defaults.
+- It was one run, by one model, on one example, where the answer was already published. It shows that the instructions can be followed to the same figures. It does not show how the template behaves on messy real files, other file formats, other models, or headers that differ from the defaults.
 - None of the stop conditions (missing header, unit mismatch, unknown movement type, failed tie-out) were triggered, so none was exercised.
 - The acceptance tests in the template are still proposed and were not run.
 - No client data was used, and the template has not been tested in a client environment.

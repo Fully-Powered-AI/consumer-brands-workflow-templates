@@ -8,7 +8,7 @@ Map one production batch from its record to every recorded shipment, with each g
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Consumer brands · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/batch-distribution-trace/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-batch-distribution-trace&from=gh-batch-distribution-trace)*
@@ -52,7 +52,7 @@ Good looks like this: every number traces to a row in an export, no unresolved l
 
 This is not a recall contact plan and not a stock count. [Product recall customer contact plan](https://fullypowered.ai/workflows/product-recall-customer-contact-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-batch-distribution-trace&from=gh-batch-distribution-trace) starts after a recall has been issued and works from affected customers. [Stock count reconciliation](https://fullypowered.ai/workflows/stock-count-reconciliation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-batch-distribution-trace&from=gh-batch-distribution-trace) compares a physical count with the books. This workflow template only answers where the records say one batch went, and where they do not say.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -75,7 +75,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. Small wording edits made to the instructions and example after that trial have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its example in Claude on 10 November 2026; the record is published with it. Small wording edits made to the instructions and example after that trial have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past batch the quality lead already knows, with hard cases written in advance: a header that does not match, a receipt that differs from production, a transfer larger than the stock recorded, a line with two batch codes, a near-match code and a repack that changes the unit. Operations checks every route against carrier and retailer documents before anyone relies on the map. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-batch-distribution-trace&from=gh-batch-distribution-trace) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=consumer-brands-batch-distribution-trace&from=gh-batch-distribution-trace) describes the record we keep.
 
@@ -83,13 +83,13 @@ Testing in your environment means running it on a past batch the quality lead al
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

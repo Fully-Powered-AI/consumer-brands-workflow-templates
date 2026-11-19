@@ -1,14 +1,14 @@
-# Packaging artwork handoff check: a trial on the invented example
+# Packaging artwork handoff check: a trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-There were two runs. The first is recorded below as written; the second, after the edits listed under "Second run", follows it. The first run's inputs used different barcodes from the published example (different invented barcodes); nothing else in the inputs differed.
+There were two runs. The first is recorded below as written; the second, after the edits listed under "Second run", follows it. The first run's inputs used different barcodes from the published example (different illustrative barcodes); nothing else in the inputs differed.
 
 ## First run
 
-The inputs were the invented example in [example.md](example.md): the six records under "The inputs". No client data was used. The run was done by a model that did not write the template. It read the instructions and the inputs first, produced the output, and only then read the example's output and the reviewer checklist.
+The inputs were the example in [example.md](example.md): the six records under "The inputs". No client data was used. The run was done by a model that did not write the template. It read the instructions and the inputs first, produced the output, and only then read the example's output and the reviewer checklist.
 
 ## What came out
 
@@ -47,7 +47,7 @@ The run followed the fenced instructions and the output format. In summary:
 - Nothing in the output was a fact missing from the inputs. Every date, reference, size and barcode quoted is in the inputs.
 - One phrase in the published example goes a step beyond the finding itself: F2 says the barcode found is the one "the variant matrix gives to G-OH-350". That is in the matrix, so it is supported by the inputs.
 - Nothing in either output describes wording as right, wrong, true, allowed or compliant, and the status cannot be read as approval, which meets items 4 and 7 of the reviewer checklist. Items 1, 2, 3, 5 and 6 were also met on this run's output.
-- Shortcomings of this trial: it is one run, by one model, on an invented set of records that is small and was built to show each kind of finding. It says nothing about messy real exports, long copy decks or a header that almost matches. The stop conditions and the declines were not exercised.
+- Shortcomings of this trial: it is one run, by one model, on a sample set of records that is small and was built to show each kind of finding. It says nothing about messy real exports, long copy decks or a header that almost matches. The stop conditions and the declines were not exercised.
 
 ## Second run
 
@@ -55,7 +55,7 @@ The run followed the fenced instructions and the output format. In summary:
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-After the first run and an independent review, the instruction block and the procedure were edited: the block now states the settings, the "text not supplied" and "cannot be placed in a slot" rules, unreadable numbers, the order of findings within a slot, who resolves each rule and what to do with a file that is not in the release; a conflict is stated to be one Files finding; all mismatches in one file are one Specification finding; "older" means a lower version number; the date comes from the settings; a variant with no specification rows is counted apart from the slots. The example changed in three ways: the barcodes (now invented numbers in a prefix range not used for products sold to the public), F1's expected value, and decision 3.
+After the first run and an independent review, the instruction block and the procedure were edited: the block now states the settings, the "text not supplied" and "cannot be placed in a slot" rules, unreadable numbers, the order of findings within a slot, who resolves each rule and what to do with a file that is not in the release; a conflict is stated to be one Files finding; all mismatches in one file are one Specification finding; "older" means a lower version number; the date comes from the settings; a variant with no specification rows is counted apart from the slots. The example changed in three ways: the barcodes (now sample numbers in a prefix range not used for products sold to the public), F1's expected value, and decision 3.
 
 This second run was done by the same model, in the session that made those edits, so it was not independent: that session had read the first record before it started. It read the revised instruction block, the output format and the revised inputs, worked through the procedure, and only then compared the result with the example's output.
 
@@ -67,7 +67,7 @@ What was observed:
 - Decision 3 was written as a question with the facts and named the Regulatory specialist as someone to ask, without saying what the specialist would need to do.
 - The gaps found in the first run were closed on this read: the conflict becomes a Files finding by an explicit sentence, the size error and colour-mode error together make one Specification finding (F6), the date is the one in the settings, and the file that is not in the release (OH750_back_v2.pdf) gets only its review record stated.
 - Not exercised by this run: a variant whose pack format has no specification rows, the "text not supplied" and "cannot be placed in a slot" rules, a value that is not a number, a header mismatch and a request to approve. The new wording for those cases has not been run.
-- Shortcomings: one run, by a model that had seen the earlier record, on a small invented set. It shows that the revised instructions still produce the published output on these inputs; it does not show that they hold on real exports.
+- Shortcomings: one run, by a model that had seen the earlier record, on a small sample set. It shows that the revised instructions still produce the published output on these inputs; it does not show that they hold on real exports.
 
 ## Edits after the second run
 

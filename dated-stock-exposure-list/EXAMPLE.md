@@ -1,6 +1,6 @@
-# Dated stock exposure list: an invented example
+# Dated stock exposure list: an example
 
-*Illustrative example with invented data.* Fernhollow Goods is an invented small brand selling granola, chilli oil and lip balm. Retailer A, Retailer B and Retailer C are invented accounts. No real company, product or person is described.
+*Illustrative example with sample data.* Fernhollow Goods is an illustrative small brand selling granola, chilli oil and lip balm. Retailer A, Retailer B and Retailer C are illustrative accounts. No real company, product or person is described.
 
 ## What the supply planner supplies
 

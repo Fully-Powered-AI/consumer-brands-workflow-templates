@@ -1,6 +1,6 @@
-# Batch distribution trace: an invented example
+# Batch distribution trace: an example
 
-*Illustrative example with invented data.* Brand X, the retailers, the warehouses, the production partner and every code, reference and quantity below are invented. The quality lead has asked for a trace of batch B2611A, a chilli oil, after a production partner's note raised a question about it. The unit throughout is bottles.
+*Illustrative example with sample data.* Brand X, the retailers, the warehouses, the production partner and every code, reference and quantity below are illustrative. The quality lead has asked for a trace of batch B2611A, a chilli oil, after a production partner's note raised a question about it. The unit throughout is bottles.
 
 ## What the person supplies
 

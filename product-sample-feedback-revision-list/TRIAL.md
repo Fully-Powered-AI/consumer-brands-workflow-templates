@@ -4,7 +4,7 @@
 
 Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). Date: 2026-11-10.
 
-This is the second run. The first run (earlier on 2026-11-10) used the first version of the template and example. After an independent review, the instruction block, the output format and the example's inputs were changed (see the last section), so the template was run again on the invented example in `public/example.md`: the concept brief, the two-sample register, the four earlier revision requests, the thirteen feedback notes and the settings, which now include a run date. No client data was used. The assistant followed the instruction block and output format in `member/template.md`. Unlike the first run, this one was not blind: the person who ran it had already read the example's output while fixing it, so its closeness to the example proves less than the first run did.
+This is the second run. The first run (earlier on 2026-11-10) used the first version of the template and example. After an independent review, the instruction block, the output format and the example's inputs were changed (see the last section), so the template was run again on the example in `public/example.md`: the concept brief, the two-sample register, the four earlier revision requests, the thirteen feedback notes and the settings, which now include a run date. No client data was used. The assistant followed the instruction block and output format in `member/template.md`. Unlike the first run, this one was not blind: the person who ran it had already read the example's output while fixing it, so its closeness to the example proves less than the first run did.
 
 ## What came out
 
